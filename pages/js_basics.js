@@ -43,8 +43,8 @@ function areaOfCircle(radius) {
 console.log("All functions ");
 
 function all(num) {
-halfOf(num);
+    halfOf(num);
     squareNumber(num);
-  areaOfCircle(num);
-   percentOf(num, num);
+    areaOfCircle(num);
+    percentOf(num, num);
 }
